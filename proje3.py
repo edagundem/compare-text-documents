@@ -1,5 +1,10 @@
 import os
 from tkinter import *
+# 1) Kodlarin içine açıklama satırları ekler misin
+# 2) algoritmayi çalışma mantığını ve nasıl kullanıldığını anlatan bir belge hazırlar mısın
+# 3) Benzerlikler hakkında rapor pencereler ile veriliyor
+#    50 dosya olsa 2500 pencere çıkacak ve her birini kapamak zorunda kalacağız
+#    Pencerelere yazılan çıktıkların hepsini tek bir text dosyasına yazsın ben ordan inceleyelim.
 
 klasor="."
 answersList=[]
