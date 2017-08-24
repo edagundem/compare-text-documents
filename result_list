@@ -1,0 +1,48 @@
+
+****************************** 1.dosya ********************************
+
+Dosya 1.c ile 2.c karsilastirildiginda: 
+Benzer satir sayisi: 14
+Benzerlik orani: % 48.0
+Dosya 1.c ile 3.c karsilastirildiginda: 
+Benzer satir sayisi: 5
+Benzerlik orani: % 17.0
+Dosya 1.c ile 4.c karsilastirildiginda: 
+Benzer satir sayisi: 1
+Benzerlik orani: % 3.0
+
+****************************** 2.dosya ********************************
+
+Dosya 2.c ile 1.c karsilastirildiginda: 
+Benzer satir sayisi: 14
+Benzerlik orani: % 46.0
+Dosya 2.c ile 3.c karsilastirildiginda: 
+Benzer satir sayisi: 4
+Benzerlik orani: % 13.0
+Dosya 2.c ile 4.c karsilastirildiginda: 
+Benzer satir sayisi: 2
+Benzerlik orani: % 6.0
+
+****************************** 3.dosya ********************************
+
+Dosya 3.c ile 1.c karsilastirildiginda: 
+Benzer satir sayisi: 5
+Benzerlik orani: % 50.0
+Dosya 3.c ile 2.c karsilastirildiginda: 
+Benzer satir sayisi: 4
+Benzerlik orani: % 40.0
+Dosya 3.c ile 4.c karsilastirildiginda: 
+Benzer satir sayisi: 2
+Benzerlik orani: % 20.0
+
+****************************** 4.dosya ********************************
+
+Dosya 4.c ile 1.c karsilastirildiginda: 
+Benzer satir sayisi: 1
+Benzerlik orani: % 16.0
+Dosya 4.c ile 2.c karsilastirildiginda: 
+Benzer satir sayisi: 2
+Benzerlik orani: % 33.0
+Dosya 4.c ile 3.c karsilastirildiginda: 
+Benzer satir sayisi: 2
+Benzerlik orani: % 33.0

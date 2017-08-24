@@ -2,7 +2,7 @@
 #include<stdio.h>
  int main( void )
 {
-	int girilen_sayi;
+int girilen_sayi;
 	int test_sonucu;
 	do{
 		printf( "Lütfen bir sayý giriniz> " );
